@@ -30,9 +30,9 @@ bool isPalindrome(int x) {
      return(true);
 }
 
-int main()
-{
-    int x = 121;
-    printf("%d", isPalindrome(x));
-    return 0;
-}
+// int main()
+// {
+//     int x = 121;
+//     printf("%d", isPalindrome(x));
+//     return 0;
+// }
