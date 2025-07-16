@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ckhater/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/ckhater/LeetCode/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ckhater/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ckhater/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
