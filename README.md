@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ckhater/LeetCode/tree/master/0013-roman-to-integer) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/ckhater/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ckhater/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/ckhater/LeetCode/tree/master/0118-pascals-triangle) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/ckhater/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Trie
 |  |
 | ------- |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ckhater/LeetCode/tree/master/0118-pascals-triangle) |
+## Counting
+|  |
+| ------- |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/ckhater/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 <!---LeetCode Topics End-->
