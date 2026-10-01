@@ -16,6 +16,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ckhater/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ckhater/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ckhater/LeetCode/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/ckhater/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ckhater/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ckhater/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
